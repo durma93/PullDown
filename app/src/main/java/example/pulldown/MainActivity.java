@@ -59,6 +59,6 @@ public class MainActivity extends AppCompatActivity {
         int iii = 3+3;
     }
     private void madeWasAChange(){
-        int iiii=iii+i;
+        int iiii=43;
     }
 }
